@@ -1,0 +1,5 @@
+* SPOJ
+
+An attempt at seeing the usefulness of idiomatic Ocaml for competitive programming
+problems. Unfortunately, some idioms aren't available because SPOJ uses Ocaml 4.01
+and doesn't include =Core=.
